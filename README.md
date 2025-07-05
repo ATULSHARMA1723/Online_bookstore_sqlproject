@@ -1,6 +1,6 @@
 # Online_bookstore_sqlproject
 
-# Project Description:
+# Description:
 This project involved designing and querying a relational database for an Online Bookstore using PostgreSQL. The goal was to simulate real-world book sales, customer management, and order tracking through structured data handling and SQL queries.
 
 # The database schema includes three main tables:
